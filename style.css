@@ -2,3 +2,10 @@ body {
   background: #eee;
   margin: 25px;
 }
+
+.header {
+  align-items: center;
+  display: flex;
+  background: #ddd;
+  margin: 10px;
+}

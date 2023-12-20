@@ -4,8 +4,9 @@ body {
 }
 
 .header {
-  align-items: center;
+  justify-content: center;
   display: flex;
   background: #ddd;
   padding: 10px;
+  border-radius: 20px;
 }

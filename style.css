@@ -7,7 +7,7 @@ url("img/Cooper Black.ttf") format("truetype");
 body {
   background: #eee;
   margin: 25px;
-  font: Cooper Black;
+  font-family: Cooper Black;
 }
 
 .header {

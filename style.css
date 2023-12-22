@@ -17,3 +17,10 @@ body {
   padding: 10px;
   border-radius: 20px;
 }
+
+h1.bigger {
+  font-size: 64px;
+}
+
+h1.big {
+  font-size: 48px;
